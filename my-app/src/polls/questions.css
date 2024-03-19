@@ -1,0 +1,15 @@
+.grid-container {
+    margin: 40px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+}
+
+.grid-item {
+background-color: blueviolet;
+}
+
+.title{
+    margin: 10px;
+    padding-left : 50%;
+}
